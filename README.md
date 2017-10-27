@@ -1,2 +1,2 @@
-# mlexperiments
-My Machine Learning Programs  
+# Machine Learning Experiments
+
